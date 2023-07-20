@@ -1,0 +1,14 @@
+.my-orders h1 {
+  margin: 50px auto;
+}
+
+.order-data {
+  margin: 20px 0px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.my-orders {
+  margin: 10px 50px;
+  margin-bottom: 100px;
+}

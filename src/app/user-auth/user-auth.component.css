@@ -1,0 +1,25 @@
+.user-auth h1 {
+  color: blueviolet;
+  margin-bottom: 50px;
+  margin-top: 80px;
+  text-align: center;
+}
+
+.user-auth {
+  margin-bottom: 50px;
+}
+
+.common-form p {
+  color: blueviolet;
+  text-align: center;
+}
+
+.common-form a {
+  cursor: pointer;
+  color: blueviolet;
+  text-decoration: underline;
+}
+
+.common-form a:hover {
+  font-weight: 600;
+}

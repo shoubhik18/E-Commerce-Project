@@ -1,0 +1,269 @@
+{
+  "seller": [
+    {
+      "name": "shoubhik",
+      "email": "shoubhik@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "shubu",
+      "email": "shubu@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "tony",
+      "password": "abc@123",
+      "email": "tony@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "bruce ",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 4
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung s23",
+      "price": "86999",
+      "color": "Cream",
+      "category": "Mobiles",
+      "description": "A latest samsung product",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/1/r/n/-original-imagmg6gyzgzzszt.jpeg?q=70",
+      "id": 1
+    },
+    {
+      "name": "I Phone 14",
+      "price": "100999",
+      "color": "Red",
+      "category": "Mobiles",
+      "description": "A latest apple product",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/r/k/o/-original-imaghx9qtwbnhwvy.jpeg?q=70",
+      "id": 2
+    },
+    {
+      "name": "ASUS TUF Gaming F15",
+      "price": "144990",
+      "color": "Black",
+      "category": "Gaming Laptop",
+      "description": "rtx 3060",
+      "image": "https://rukminim1.flixcart.com/image/416/416/l3rmzrk0/computer/2/o/q/-original-imagetjfvgfsm24g.jpeg?q=70",
+      "id": 3
+    },
+    {
+      "name": "Honor Magic Watch 2 ",
+      "price": "11999",
+      "color": "Black",
+      "category": "Smart Watches",
+      "description": "(46mm) Smartwatch  (Black Strap, Regular)",
+      "image": "https://rukminim1.flixcart.com/image/416/416/k8q8nm80/smartwatch/y/y/e/minos-b19v-honor-original-imafqzbqdkgryyfg.jpeg?q=70",
+      "id": 4
+    },
+    {
+      "name": "SAMSUNG Crystal 4K",
+      "price": "29990",
+      "color": "Black",
+      "category": "TV",
+      "description": "108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV  (UA43AUE60AKLXL)",
+      "image": "https://rukminim1.flixcart.com/image/416/416/l3nco7k0/television/s/q/m/-original-imageq5eptqwxcv8.jpeg?q=70",
+      "id": 5
+    },
+    {
+      "name": "realme 11 Pro+ 5G",
+      "price": "29999",
+      "color": "bisque",
+      "category": "Mobiles",
+      "description": "(Sunrise Beige, 256 GB)  (12 GB RAM)",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/t/k/m/11-pro-5g-rmx3741-realme-original-imagq6asfa6hg5eu.jpeg?q=70",
+      "id": 6
+    },
+    {
+      "name": "acer 27 inch Full HD",
+      "price": "10299",
+      "color": "White",
+      "category": "Monitors",
+      "description": "LED Backlit IPS Panel White Colour Monitor (HA270)  (Frameless, AMD Free Sync, Response Time: 4 ms, 75 Hz Refresh Rate)",
+      "image": "https://rukminim1.flixcart.com/image/416/416/ks0onm80/monitor/w/6/6/ha270-um-hw0si-a01-acer-original-imag5zjnk4yad4uz.jpeg?q=70",
+      "id": 7
+    },
+    {
+      "name": "PlayStation 5 ",
+      "price": "54990",
+      "color": "white",
+      "category": "Gaming Console",
+      "description": "SONY PlayStation 5 console 825 GB",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/gamingconsole/z/i/l/-original-imaghyykmtqzkagz.jpeg?q=70",
+      "id": 8
+    },
+    {
+      "name": "MSI Sword 15 Core",
+      "price": "79990",
+      "color": "white",
+      "category": "Gaming Laptop",
+      "description": "i5 12th Gen - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 3050 Ti/144 Hz) Sword 15 A12UD-471IN Gaming Laptop  (15.6 Inch, White, 2.25 Kg)",
+      "image": "https://rukminim1.flixcart.com/image/416/416/l2qhjm80/computer/n/t/g/sword-15-a12ud-gaming-laptop-msi-original-imageymchyn4ypgz.jpeg?q=70",
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "Shoubhik",
+      "email": "shoubhik1801@gmail.com",
+      "password": "abc123",
+      "id": 4
+    },
+    {
+      "name": "chopper",
+      "email": "chopper@user.com",
+      "password": "abc123",
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "name": "SAMSUNG Crystal 4K",
+      "price": "29990",
+      "color": "Black",
+      "category": "TV",
+      "description": "108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV  (UA43AUE60AKLXL)",
+      "image": "https://rukminim1.flixcart.com/image/416/416/l3nco7k0/television/s/q/m/-original-imageq5eptqwxcv8.jpeg?q=70",
+      "quantity": 5,
+      "userId": 5,
+      "productId": 5,
+      "id": 2
+    },
+    {
+      "name": "Honor Magic Watch 2 ",
+      "price": "11999",
+      "color": "Black",
+      "category": "Smart Watches",
+      "description": "(46mm) Smartwatch  (Black Strap, Regular)",
+      "image": "https://rukminim1.flixcart.com/image/416/416/k8q8nm80/smartwatch/y/y/e/minos-b19v-honor-original-imafqzbqdkgryyfg.jpeg?q=70",
+      "quantity": 1,
+      "userId": 5,
+      "productId": 4,
+      "id": 3
+    },
+    {
+      "name": "realme 11 Pro+ 5G",
+      "price": "29999",
+      "color": "bisque",
+      "category": "Mobiles",
+      "description": "(Sunrise Beige, 256 GB)  (12 GB RAM)",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/t/k/m/11-pro-5g-rmx3741-realme-original-imagq6asfa6hg5eu.jpeg?q=70",
+      "quantity": 1,
+      "userId": 5,
+      "productId": 6,
+      "id": 4
+    },
+    {
+      "name": "acer 27 inch Full HD",
+      "price": "10299",
+      "color": "White",
+      "category": "Monitors",
+      "description": "LED Backlit IPS Panel White Colour Monitor (HA270)  (Frameless, AMD Free Sync, Response Time: 4 ms, 75 Hz Refresh Rate)",
+      "image": "https://rukminim1.flixcart.com/image/416/416/ks0onm80/monitor/w/6/6/ha270-um-hw0si-a01-acer-original-imag5zjnk4yad4uz.jpeg?q=70",
+      "quantity": 1,
+      "userId": 4,
+      "productId": 7,
+      "id": 6
+    },
+    {
+      "name": "Samsung s23",
+      "price": "86999",
+      "color": "Cream",
+      "category": "Mobiles",
+      "description": "A latest samsung product",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/1/r/n/-original-imagmg6gyzgzzszt.jpeg?q=70",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 2,
+      "id": 7
+    },
+    {
+      "name": "ASUS TUF Gaming F15",
+      "price": "144990",
+      "color": "Black",
+      "category": "Gaming Laptop",
+      "description": "rtx 3060",
+      "image": "https://rukminim1.flixcart.com/image/416/416/l3rmzrk0/computer/2/o/q/-original-imagetjfvgfsm24g.jpeg?q=70",
+      "quantity": 1,
+      "productId": 3,
+      "userId": 3,
+      "id": 8
+    },
+    {
+      "name": "Samsung s23",
+      "price": "86999",
+      "color": "Cream",
+      "category": "Mobiles",
+      "description": "A latest samsung product",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/1/r/n/-original-imagmg6gyzgzzszt.jpeg?q=70",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 2,
+      "id": 9
+    },
+    {
+      "name": "PlayStation 5 ",
+      "price": "54990",
+      "color": "white",
+      "category": "Gaming Console",
+      "description": "SONY PlayStation 5 console 825 GB",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/gamingconsole/z/i/l/-original-imaghyykmtqzkagz.jpeg?q=70",
+      "quantity": 1,
+      "productId": 8,
+      "userId": 3,
+      "id": 10
+    },
+    {
+      "name": "PlayStation 5 ",
+      "price": "54990",
+      "color": "white",
+      "category": "Gaming Console",
+      "description": "SONY PlayStation 5 console 825 GB",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/gamingconsole/z/i/l/-original-imaghyykmtqzkagz.jpeg?q=70",
+      "quantity": 1,
+      "productId": 8,
+      "userId": 2,
+      "id": 11
+    }
+  ],
+  "orders": [
+    {
+      "email": "anil@user.com",
+      "address": "noida sector x",
+      "contact": 999,
+      "totalPrice": 144117,
+      "userId": 1,
+      "id": 3
+    }
+  ]
+}

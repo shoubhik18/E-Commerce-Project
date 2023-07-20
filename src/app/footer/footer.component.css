@@ -1,0 +1,26 @@
+ul {
+  margin: 0;
+  padding: 0;
+}
+.footer {
+  padding: 10px 30px 0px 30px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: #eee;
+}
+.footer ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+.footer ul li a {
+  color: blueviolet;
+  text-decoration: none;
+}
+
+.footer p {
+  margin-bottom: 4px;
+}
